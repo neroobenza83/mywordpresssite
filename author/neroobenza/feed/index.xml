@@ -9,8 +9,8 @@
 
 <channel>
 	<title>neroobenza &#8211; Nero Obenza Videography Website</title>
-	<atom:link href="http://neroobenzavideography.com/author/neroobenza/feed/" rel="self" type="application/rss+xml" />
-	<link>http://neroobenzavideography.com</link>
+	<atom:link href="https://neroobenzavideography.com/author/neroobenza/feed/" rel="self" type="application/rss+xml" />
+	<link>https://neroobenzavideography.com</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 08 Sep 2021 03:21:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://neroobenzavideography.com/2021/08/29/hello-world/</link>
-					<comments>http://neroobenzavideography.com/2021/08/29/hello-world/#comments</comments>
+		<link>https://neroobenzavideography.com/2021/08/29/hello-world/</link>
+					<comments>https://neroobenzavideography.com/2021/08/29/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[neroobenza]]></dc:creator>
 		<pubDate>Sun, 29 Aug 2021 08:19:57 +0000</pubDate>
@@ -32,7 +32,7 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://neroobenzavideography.com/2021/08/29/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://neroobenzavideography.com/2021/08/29/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

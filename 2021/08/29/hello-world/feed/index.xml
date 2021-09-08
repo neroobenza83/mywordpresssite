@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://neroobenzavideography.com/2021/08/29/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://neroobenzavideography.com/2021/08/29/hello-world/</link>
+	<atom:link href="https://neroobenzavideography.com/2021/08/29/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://neroobenzavideography.com/2021/08/29/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 08 Sep 2021 03:21:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>http://neroobenzavideography.com/2021/08/29/hello-world/#comment-1</link>
+		<link>https://neroobenzavideography.com/2021/08/29/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 29 Aug 2021 08:19:57 +0000</pubDate>
