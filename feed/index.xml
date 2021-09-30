@@ -12,7 +12,7 @@
 	<atom:link href="https://neroobenzavideography.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://neroobenzavideography.com</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 30 Sep 2021 09:11:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Sep 2021 09:23:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Hello world!</title>
+		<title>Welcome to James + Xuxa Wedding</title>
 		<link>https://neroobenzavideography.com/2021/08/29/hello-world/</link>
 					<comments>https://neroobenzavideography.com/2021/08/29/hello-world/#comments</comments>
 		
@@ -32,7 +32,7 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-52d18e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="52d18e8" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-52d18e8 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="52d18e8" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-230d6c6" data-id="230d6c6" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
