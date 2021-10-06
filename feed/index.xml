@@ -12,7 +12,7 @@
 	<atom:link href="https://neroobenzavideography.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://neroobenzavideography.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Sep 2021 09:23:42 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Oct 2021 00:16:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,10 +29,35 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http:/?p=1</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[James + Xuxa Livestream Ceremony begins @ 3:00 PM Philippine Time]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-52d18e8 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="52d18e8" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-e0a2da7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e0a2da7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8bf0556" data-id="8bf0556" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-178db8f elementor-widget elementor-widget-heading" data-id="178db8f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">James + Xuxa</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a070567 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a070567" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48269df" data-id="48269df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-61d99f4 elementor-widget elementor-widget-text-editor" data-id="61d99f4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Livestream</p>
+<p>Ceremony begins @ 3:00 PM Philippine Time</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-52d18e8 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="52d18e8" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-230d6c6" data-id="230d6c6" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
