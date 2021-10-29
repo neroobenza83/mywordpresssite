@@ -4,7 +4,6 @@ use PHPMailer\PHPMailer\PHPMailer;
 if(isset($_POST['name']) && isset($_POST['email'])){
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $subject = $_POST['subject'];
     $body = $_POST['body'];
 
     require_once "PHPMailer.php";
@@ -26,8 +25,7 @@ if(isset($_POST['name']) && isset($_POST['email'])){
     $mail->isHTML(true);
     $mail->setFrom($email, $name);
     $mail->addAddress("neroobenzavideography@gmail.com");
-    $mail->Subject = ("$email ($subject)");
-    $mail->Body = $body;
+$mail->Body = $body;
 
     if($mail->send()){
         $status = "success";
